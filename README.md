@@ -18,3 +18,10 @@ So decided to Create a web application using HTML, CSS, JavaScript to visualize 
    * Generation of new data array (Randomly generate new array).
    * Set size of data array in range certain range.
    * Speed of visualization (5 speed levels)
+ 
+# Tech Stack 
+* HTML
+* CSS
+* JS
+
+  
